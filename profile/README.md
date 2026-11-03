@@ -2,7 +2,7 @@
 <!-- Place this file at .github/profile/README.md inside a public repo named ".github" -->
 
 <a href="https://flickybrands.com.br">
-  <img alt="Flicky Brands" src="https://raw.githubusercontent.com/flickybrands/.github/main/profile/assets/og-image.jpg" width="100%">
+  <img alt="Flicky Brands" src="https://flickybrands.com.br/assets/brand/og-image.jpg" width="100%">
 </a>
 
 <br>
@@ -76,9 +76,9 @@ Projeto de marca, parceria ou uma issue que não cabe aqui: [contato@flickybrand
 <p align="center">
   <a href="https://flickybrands.com.br">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flickybrands/.github/main/profile/assets/flicky-icon-glyph-colorida.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flickybrands/.github/main/profile/assets/flicky-icon-glyph-negativa.svg">
-      <img alt="Flicky!" src="https://raw.githubusercontent.com/flickybrands/.github/main/profile/assets/flicky-icon-glyph-negativa.svg" width="40">
+      <source media="(prefers-color-scheme: dark)" srcset="https://flickybrands.com.br/assets/brand/flicky-icon-glyph-colorida.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://flickybrands.com.br/assets/brand/flicky-icon-glyph-negativa.svg">
+      <img alt="Flicky!" src="https://flickybrands.com.br/assets/brand/flicky-icon-glyph-negativa.svg" width="40">
     </picture>
   </a>
 </p>
