@@ -2,7 +2,7 @@
 <!-- Place this file at .github/profile/README.md inside a public repo named ".github" -->
 
 <a href="https://flickybrands.com.br">
-  <img alt="Flicky Brands" src="https://flickybrands.com.br/assets/brand/og-image.jpg" width="100%">
+  <img alt="Flicky Brands" src="https://flickybrands.com.br/assets/brand/og-image.png" width="100%">
 </a>
 
 <br>
